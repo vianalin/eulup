@@ -2,7 +2,7 @@
 
 int main() {
 	printf("the answer for problem 1 is %d\n", problemOne());
-	printf("the answer for problem 5 is %d\n", problemSix());
+	printf("the answer for problem 6 is %d\n", problemSix());
 }
 	
 //multiples of 3 or 5
